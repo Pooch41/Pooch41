@@ -8,10 +8,13 @@ I am currently completing the rigorous Masterschool Bootcamp, where my core focu
 
 ## 🌟 Featured Projects
 
-| Project | Description | Stack Highlights | 
-| :--- | :--- | :--- | 
-| [**Kobold Keeper**](https://github.com/Pooch41/Kobold-Keeper) | *A security-first fantasy tabletop toolkit and dice-rolling API.* | **Django** (Custom Auth), **PostgreSQL**, **Celery** | 
-| [**Cinephile Online**](https://github.com/Pooch41/cinephile-online) | *A film discovery platform for cinephiles and movie lovers.* | Flask, Frontend Integration | 
+### [Kobold Keeper](https://github.com/Pooch41/Kobold-Keeper)
+*A security-first fantasy tabletop toolkit and dice-rolling API.*
+* **Stack Highlights:** **Django** (Custom Auth), **PostgreSQL**, **Celery** (Asynchronous Scaling)
+
+### [Cinephile Online](https://github.com/Pooch41/cinephile-online)
+*A film discovery platform for cinephiles and movie lovers.*
+* **Stack Highlights:** Flask, Frontend Integration
 
 ---
 
