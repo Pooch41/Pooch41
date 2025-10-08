@@ -10,7 +10,7 @@ I am currently completing the rigorous Masterschool Bootcamp, where my core focu
 
 
 
-* [**Kobold Keeper**](https://github.com/Pooch41/Kobold-Keeper) | *A security-first fantasy tabletop toolkit and dice-rolling API.* | **Django** (Custom Auth), **PostgreSQL**, **Celery** |
+* [**Kobold Keeper**]([https://github.com/Pooch41/Kobold-Keeper](https://github.com/Pooch41/kobold-keeper-api)) | *A security-first fantasy tabletop toolkit and dice-rolling API.* | **Django** (Custom Auth), **PostgreSQL**, **Celery** |
 * [**Cinephile Online**](https://github.com/Pooch41/cinephile-online) | *A film discovery platform for cinephiles and movie lovers.* | Flask, Frontend Integration |
 
 
