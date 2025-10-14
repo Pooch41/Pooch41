@@ -30,8 +30,8 @@ I am currently completing the rigorous Masterschool Bootcamp, where my core focu
 ## 🎲 About Me
 
 * I leverage my previous experience in the mobile games industry to approach technical challenges with a blend of creative problem-solving and focus on product stability.
-* Avid tabletop gamer and fantasy nerd (which is why I love building Kobold Keeper!)
-* Obsessed with metal music and video games.
+* Avid tabletop gamer and fantasy nerd.
+* Into with metal and video games, and minies.
 
 ## 📫 Connect with Me
 
